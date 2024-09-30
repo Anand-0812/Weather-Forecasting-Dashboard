@@ -2,17 +2,17 @@
 
 Steps in Project: 
 
-1.Requirement gathering / Business requirement.
-2.Data Walkthrough
-3.Data collection
-4.Data Cleaning / Quality check 
-5.Data Modelling 
-6.Data Processing
-7.Dax Collection
-8.Dashboard Lay outing
-9.Charts Development & Formatting
-10.Dashboard / Reports Development
-11.Insight Generation
+1. Requirement gathering / Business requirement.
+2. Data Walkthrough
+3. Data collection
+4. Data Cleaning / Quality check 
+5. Data Modelling 
+6. Data Processing
+7. Dax Collection
+8. Dashboard Lay outing
+9. Charts Development & Formatting
+10. Dashboard / Reports Development
+11. Insight Generation
 
 
 Business Requirement :
